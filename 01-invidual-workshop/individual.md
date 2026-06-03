@@ -53,7 +53,7 @@ Kỳ vọng AI:
 
 **Screenshot**
 
-[Ảnh cần chèn: màn hình NEO/chatbot của Vietnam Airlines trên website hoặc Zalo VNA.]
+<img src="images/neo-chatbot.jpg" alt="Màn hình NEO chatbot Vietnam Airlines" width="900">
 
 [Ảnh cần chèn: màn hình trang Vietnam Airlines Baggage Support có phần hướng dẫn liên hệ quầy lost baggage và lập Property Irregularity Report.]
 
