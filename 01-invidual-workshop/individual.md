@@ -52,8 +52,10 @@ Kỳ vọng AI:
 ### Evidence
 
 **Screenshot**
-
-<img src="images/neo-chatbot.jpg" alt="Màn hình NEO chatbot Vietnam Airlines" width="900">
+Màn hình NEO chatbot Vietnam Airlines:
+<img src="images/neo-dashboard.jpg" alt="Màn hình NEO chatbot Vietnam Airlines" width="600">
+Màn hình NEO chatbot Vietnam Airlines với khung trò chuyện:
+<img src="images/neo-chatbot.jpg" alt="Màn hình NEO chatbot Vietnam Airlines" width="600">
 
 [Ảnh cần chèn: màn hình trang Vietnam Airlines Baggage Support có phần hướng dẫn liên hệ quầy lost baggage và lập Property Irregularity Report.]
 
