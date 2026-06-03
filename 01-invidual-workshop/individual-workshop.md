@@ -1,7 +1,9 @@
 # Workshop - Mổ App AI Thật
 
 **Học viên:** Nguyễn Minh Đức
+
 **Mã học viên:** 2A202600808
+
 **App được chọn:** Vietnam Airlines - NEO  
 **Scope dùng thử:** Chatbot hỗ trợ hành lý, cụ thể là tình huống hành khách không thấy hành lý ký gửi sau khi hạ cánh.  
 
