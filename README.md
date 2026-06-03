@@ -11,9 +11,7 @@ Folder này được chia theo đúng việc cần làm:
 | Folder / File | Dùng để làm gì |
 |---|---|
 | `01-invidual-workshop/app-teardown.md` | Bài mổ app AI thật: dùng thử, vẽ flow, tìm path yếu, viết finding thành quyết định product. |
-| `02-group-spec/evidence-pack-template.md` | Template gom bằng chứng: self-use, review/user/social, competitor/analog, và tác động vào SPEC. |
-| `02-group-spec/synthesis-decide-toolkit.md` | Bộ câu hỏi để chuyển evidence thành insight, opportunity và build slice. |
-| `02-group-spec/thin-spec-template.md` | Template thin SPEC cuối Day 05: user, pain, build slice, Auto/Aug, 4 paths, failure mode, owner plan. |
+| `02-group-spec/` | Bộ template cho phần nhóm: gom bằng chứng, chuyển evidence thành insight/opportunity/build slice, và viết thin SPEC cuối Day 05. |
 
 ## Cấu trúc repo nộp bài Day 06
 
@@ -40,9 +38,7 @@ Trong đó:
 ## Đọc file nào để làm gì?
 
 1. Làm `01-invidual-workshop/app-teardown.md` khi lớp mổ Moni / NEO / V-AI hoặc app theo track.
-2. Điền `02-group-spec/evidence-pack-template.md` để gom evidence.
-3. Dùng `02-group-spec/synthesis-decide-toolkit.md` để chốt insight, opportunity và build slice.
-4. Viết `02-group-spec/thin-spec-template.md` trước khi rời lớp.
+2. Dùng các template trong `02-group-spec/` để gom evidence, chốt insight/opportunity/build slice, và viết thin SPEC trước khi rời lớp.
 
 ## Cuối Day 05 cần có gì?
 
